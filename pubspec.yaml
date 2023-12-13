@@ -1,0 +1,78 @@
+name: kishan_se
+description: Kishan se application
+
+
+publish_to: 'none' 
+
+
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.19.6 <3.0.0'
+
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  #Icons
+  iconsax: ^0.0.8
+  cupertino_icons: ^1.0.2
+
+  #state Management
+  get: ^4.6.5
+
+  #Product Specific
+
+
+
+  #--------------/Packages End----------#
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  #-----------LOCAL ASSETS---------------#
+  assets:
+    - assets/icons/brands/
+    - assets/images/
+    - assets/logos/
+  
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
